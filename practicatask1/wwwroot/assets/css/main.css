@@ -1,0 +1,145 @@
+.section-one{
+   width: 100%;
+   height: 500px;
+}
+.section-one .qsd{
+    display: flex;
+}
+.section-one .qsd .bnm{
+    width: 50%;
+}
+.section-one .qsd .bnm .xcv{
+    padding-left: 100px;
+}
+.section-one .qsd .qwert{
+    width: 50%;
+}
+.section-two{
+    width: 100%;
+    height: 700px;
+}
+.section-two .l{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section-two .l span{
+    font-weight: 700;
+    font-size: 30px;
+}
+.section-two .container{
+    display: flex;
+}
+.section-two .container .box1{
+    width: 30%;
+    height: 400px;
+    border:solid;
+    
+}
+.section-two .container .box2{
+    width: 30%;
+    height: 400px;
+    border:solid;
+    
+}
+.section-two .container .box3{
+    width: 30%;
+    height: 400px;
+    border:solid;
+    
+}
+.section-two .container img{
+    position: relative;
+    left: 150px;
+}
+.section-two .container h3{
+    text-align: center;
+}
+.section-two .container p{
+    width: 80%;
+    padding-left: 50px;
+}
+.section-two .container .box1:hover{
+    background-color: red;
+    transition: 1s;
+}
+.section-two .container .box2:hover{
+    background-color: red;
+    transition: 1s;
+}
+.section-two .container .box3:hover{
+    background-color: red;
+    transition: 1s;
+}
+.section-two .p{
+    text-align: center;
+    padding-top: 50px;
+}
+.section-three{
+    width: 100%;
+    height: 600px;
+    
+}
+.section-three .g{
+    padding-left: 250px;
+    padding-top: 200px;
+}
+.section-foor{
+    width: 100%;
+    height: 800px;
+
+}
+.section-foor .d{
+    padding-top: 50px;
+    padding-left: 40%;
+}
+.section-foor .w{
+    text-align: center;
+}
+.section-five{
+    width: 100%;
+    height: 700px;
+}
+.section-five .t{
+    padding-left: 45%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.section-five .lkj{
+    display: flex;
+}
+.section-five .lkj .tr{
+    width: 50%;  
+}
+.section-five .lkj .tr .qw{
+    padding-left: 350px;
+}
+.section-five .lkj .sdf{
+    width: 50%;
+}
+.footer{
+    width: 100%;
+    height: 500px;
+    
+    background-color: black;
+}
+.footer .zasdf{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer .container{
+    display: flex;
+}
+.footer .container .box1{
+     width: calc(100%/4);
+}
+.footer .container .box2{
+    width: calc(100%/4);
+}
+.footer .container .box3{
+    width: calc(100%/4);
+}
+.footer .container .box4{
+    width: calc(100%/4);
+}
